@@ -48,7 +48,7 @@ This repository holds the Android App for performing experiments with [PSLab](ht
       </tr>
     </table>
   <table>
-    <tr>
+    <tr>. 
      <td><img src="/docs/images/view_pin_layout_front.png"></td>
      <td><img src="/docs/images/view_pin_layout_back.png"></td>
      <td><img src="/docs/images/view_side_navigation_drawer.png"></td>
